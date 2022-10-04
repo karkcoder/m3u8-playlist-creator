@@ -1,5 +1,5 @@
 import os
-path = "Z:\\Playlists"
+path = "some path"
 dir_list = os.listdir(path)
 
 for d in dir_list:
